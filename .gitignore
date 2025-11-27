@@ -1,0 +1,11 @@
+# KiCad project ignores
+*.lck
+*.bak
+*.kicad_prl~
+*.sch-bak
+*.kicad_pcb-bak
+fp-info-cache
+sym-lib-table-bak
+fp-lib-table-bak
+*-backups/
+*.tmp
